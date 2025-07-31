@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Benedetta!
 
-<!--
-**benedettalava/benedettalava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a university student passionate about data, statistical modeling, and learning new technologies.  
+💻 Here you'll find a collection of my academic and personal projects.  
+📊 I'm currently working on multilevel models and scalable inference techniques (not here yet)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- Programming: **R**, **Python**, **Julia**, **SQL**, **JMP**
+- Statistics: **GLMMs**, **Bayesian inference**, **Hierarchical models**, **Data mining**, **Machine learning**
+
+---
+
+## 📂 Featured Repository
+
+🔹 [multilevel-project](https://github.com/benedettalava/multilevel-project) — An applied project on multilevel statistical modeling.
+
+---
+
+## 📫 Get in Touch
+
+📧 benedetta.lava28@gmail.com  
+🌍 GitHub: [benedettalava](https://github.com/benedettalava)
+
+---
+
+> “Always curious, always learning.” ✨
