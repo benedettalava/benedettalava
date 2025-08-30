@@ -8,7 +8,7 @@
 
 ## 🛠️ Skills
 
-- Programming: **R**, **Python**, **Julia**, **SQL**, **JMP**
+- Programming: **R**, **Python**, **Julia**, **SQL**, **JMP**, **SAS**
 - Statistics: **GLMMs**, **Bayesian inference**, **Hierarchical models**, **Data mining**, **Machine learning**
 
 ---
